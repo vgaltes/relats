@@ -1,8 +1,6 @@
 ---
 title: "Muerte en Balmes"
 date: 2023-08-13T22:27:03+02:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["negra"]
 author: "Vicenç García"
 # author: ["Me", "You"] # multiple authors
@@ -11,7 +9,6 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-#description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -24,16 +21,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-#cover:
-#    image: "<image path/url>" # image path/url
-#    alt: "<alt text>" # alt text
-#    caption: "<text>" # display caption under cover
-#    relative: false # when using page bundles set this to true
-#    hidden: true # only hide on current single page
-#editPost:
-#    URL: "https://github.com/<path_to_repo>/content"
-#    Text: "Suggest Changes" # edit text
-#    appendFilePath: true # to append file path to Edit link
 ---
 
 El inspector Gutiérrez entró en la habitación del crime con cara de más mala leche de lo habitual, y eso era mucho decir. Desde que se había divorciado, su humor se había agriado como un plato de lentejas que dejas en la nevera pensando que te lo comerás mañana pero que al cabo de una semana todavía está ahí. Como no tenía tiempo (ni ganas) de ir de discotecas a intentar ligar, se había instalado una de esas aplicaciones que ahora utiliza la gente para conocer a alguien, ya sea para empezar una relación, o ya sea para echar un polvo, que de eso también iba falto y no le vendría nada mal. O al menos eso pensaba el resto de almas de la comisaría.
