@@ -1,5 +1,5 @@
 ---
-title: Venganza"
+title: Venganza
 date: 2023-09-08T12:10:03+02:00
 tags: ["negra"]
 author: "Vicenç García"
